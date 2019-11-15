@@ -1,6 +1,6 @@
 ## Snake-Game
 
-"Snake-game" is my first react.js project and I learned new blogging skills for the project ..
+"Snake-game" is my first react.js project and I learned new skills ..
 
 ## Available Scripts
 
